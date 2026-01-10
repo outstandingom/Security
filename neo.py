@@ -1,4 +1,4 @@
-```python
+
 import whisper
 import pyttsx3
 from lingua import Language, LanguageDetectorBuilder
@@ -265,4 +265,4 @@ while True:
 os.chmod(MEMORY_FILE, 0o600)
 os.chmod(DATASET_FILE, 0o600)
 os.chmod(KNOWLEDGE_FILE, 0o600)
-```
+
