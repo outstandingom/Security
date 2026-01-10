@@ -1,4 +1,4 @@
-```python
+
 import whisper
 import pyttsx3
 from lingua import Language, LanguageDetectorBuilder
